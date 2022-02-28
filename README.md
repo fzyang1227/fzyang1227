@@ -2,9 +2,11 @@
 <a href="https://www.linkedin.com/in/felix-yang-459557161/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<br />
 <br />
 
-hi, i'm Felix Yang, a math and data science major from Northeastern. I have a strong background in math and statistics alongside experience in databases and data analysis through multiple collaborative projects in Python and SQL. 
+i'm Felix Yang, a math and data science major from Northeastern. I have a strong background in math and statistics alongside experience in databases and data analysis through multiple collaborative projects in Python and SQL. 
 
   
 **familiar languages and tools:**  
