@@ -15,4 +15,5 @@ i'm Felix Yang, a math and data science major from Northeastern. I have a strong
 
 **some projects:**
 <li> <a href="https://github.com/fzyang1227/ds2500final">Kickstarter Data Analysis</a></li>
+<li> <a href="https://github.com/weschung/cs3200project">Basic Database Project with sql scripts</a></li>
 <li> <a href="https://github.com/fzyang1227/ds2000proj">Basic nba data analysis</a></li>
