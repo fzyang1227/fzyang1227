@@ -1,10 +1,10 @@
 ### hello! i'm Felix<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>
-<a href="https://www.linkedin.com/in/felix-yang-459557161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a> <a href="https://www.instagram.com/flixeats/"><img src="https://img.shields.io/badge/instagram-%23E44x05F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24>
-<iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ES4Vcv8zWfIt2">via GIPHY</a></p>
+<a href="https://www.linkedin.com/in/felix-yang-459557161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a> <a href="https://www.instagram.com/flixeats/"><img src="https://img.shields.io/badge/instagram-%23E44x05F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
+
+<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="25px"></iframe>
 </p>
 
-<br />
 <br />
 
 Graduating from Northeastern with a degree in Mathematics and Data Science in 2024, I have a strong background in math and statistics alongside experience in databases and data analysis through multiple collaborative projects in Python and SQL. 
