@@ -1,9 +1,9 @@
 ### hello! i'm Felix<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>
 <a href="https://www.linkedin.com/in/felix-yang-459557161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a> <a href="https://www.instagram.com/flixeats/"><img src="https://img.shields.io/badge/instagram-%23E44x05F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
+</p>
 
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="72px">
-</p>
 
 <br />
 
