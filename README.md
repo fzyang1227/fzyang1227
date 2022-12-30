@@ -1,6 +1,7 @@
-### hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## hello!
 <p>
-<a href="https://www.linkedin.com/in/felix-yang-459557161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/flixeats/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+<a href="https://www.linkedin.com/in/felix-yang-459557161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/flixeats/"><img src="https://img.shields.io/badge/instagram-%23E44x05F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </p>
 
 <br />
