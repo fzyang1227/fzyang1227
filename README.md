@@ -1,18 +1,20 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## hello!
+### hello! i'm Felix<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>
-<a href="https://www.linkedin.com/in/felix-yang-459557161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/flixeats/"><img src="https://img.shields.io/badge/instagram-%23E44x05F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+<a href="https://www.linkedin.com/in/felix-yang-459557161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a> <a href="https://www.instagram.com/flixeats/"><img src="https://img.shields.io/badge/instagram-%23E44x05F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24>
+<iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ES4Vcv8zWfIt2">via GIPHY</a></p>
 </p>
 
 <br />
 <br />
 
-I'm Felix Yang, a math and data science major from Northeastern. I have a strong background in math and statistics alongside experience in databases and data analysis through multiple collaborative projects in Python and SQL. 
+Graduating from Northeastern with a degree in Mathematics and Data Science in 2024, I have a strong background in math and statistics alongside experience in databases and data analysis through multiple collaborative projects in Python and SQL. 
 
-At Chewy, I am working as an E-commerce Analyst managing various reports of the site's core funnel metrics. Utilizing Facebook Prophet
+At Chewy, I am working as an E-commerce Analyst managing various reports of the site's core funnel metrics. Utilizing Facebook Prophet, I've built and automated a daily anomaly Slack report of such metrics alongside the creation and governmence of various key Tableau dashboards with their corresponding data during our peak Black Friday season and new management systems going into 2023.
+
+In my downtime, I do enjoy indoor rock climbing alongside various cooking and baking adventures. I am also a self-declared learning barista teaching myself various pour over and initial espresso techniques in order to best craft my morning coffee each day.
 
   
-**familiar languages and tools:**  
+**familiar languages and tools:** <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
