@@ -1,4 +1,4 @@
-### hello! i'm Felix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## hello! i'm Felix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="72px">
 
@@ -8,7 +8,7 @@
 
 <hr />
 
-#### 🌱 about me
+### 🌱 about me
 - 🎓 mathematics and data science at Northeastern (graduating in spring '24)
 - 🐶 e-commerce analyst at Chewy (co-op + part-time)
 - 🪨 avid rock climber (~v5/6)
@@ -19,7 +19,7 @@ Looking to develop more skills in design and web development while pursuing data
 
 <hr />
   
-#### 🛠️ familiar languages and tools <br />
+### 🛠️ familiar languages and tools <br />
 <p>
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
@@ -29,7 +29,7 @@ Looking to develop more skills in design and web development while pursuing data
 
 <hr />
 
-#### 🔖 some projects I've worked on <br />
+### 🔖 some projects I've worked on <br />
 <li> <a href="https://github.com/DS4200-S22/final-project-recipe-viz">Food.com Recipes Visualization</a></li>
 <li> <a href="https://github.com/fzyang1227/ds2500final">Kickstarter Data Analysis</a></li>
 <li> <a href="https://github.com/weschung/cs3200project">Basic Database Project with sql scripts</a></li>
