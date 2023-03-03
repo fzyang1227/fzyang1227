@@ -10,7 +10,7 @@
 ### 🌱 about me
 - 🎓 mathematics and data science at Northeastern >> *graduating in spring '24*
 - 🐶 e-commerce analyst at Chewy >> *co-op & part-time*
-- 🪨 avid rock climber >> *~v5/6*
+- 🪨 avid rock climber >> *~v6*
 - 🍞 inconsistent cook and baker >> *pictures in insta above*
 - ☕️ coffee barista enthusiast >> *pour-over specialist*
 
