@@ -9,7 +9,7 @@
 
 ### 🌱 about me
 - 🎓 mathematics and data science at Northeastern >> *graduating in spring '24*
-- 🐶 e-commerce analyst at Chewy >> *co-op & part-time*
+- 👾 product data analyst at Recorded Future >> *co-op*
 - 🪨 avid rock climber >> *~v6*
 - 🍞 inconsistent cook and baker >> *pictures in insta above*
 - ☕️ coffee barista enthusiast >> *pour-over specialist*
@@ -29,6 +29,7 @@ Looking to develop more skills in design and web development while pursuing data
 <hr />
 
 ### 🔖 some projects I've worked on <br />
+<li> <a href="https://github.com/fzyang1227/bluebikes">Bluebike Trip Planner and Analysis</a></li>
 <li> <a href="https://github.com/DS4200-S22/final-project-recipe-viz">Food.com Recipes Visualization</a></li>
 <li> <a href="https://github.com/fzyang1227/ds2500final">Kickstarter Data Analysis</a></li>
 <li> <a href="https://github.com/weschung/cs3200project">Basic Database Project with sql scripts</a></li>
